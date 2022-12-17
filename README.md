@@ -1,1 +1,2 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/lgll7ctlro7l03v0?svg=true)](https://ci.appveyor.com/project/CoolAleks/mobilebankapi)
+[![Build status](https://ci.appveyor.com/api/projects/status/w29kr6of9hv4876t?svg=true)](https://ci.appveyor.com/project/CoolAleks/mobailbankapi)
+
