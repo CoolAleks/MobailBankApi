@@ -17,7 +17,6 @@ public class PostmanEcho {
 // Проверки
 .then()
   .statusCode(200)
-            .header("content-length", "425")
-            .header("Connection", "keep-alive")
+                      .header("Connection", "keep-alive")
             .body("data", equalTo("some data"));
 }}
