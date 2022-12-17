@@ -10,7 +10,7 @@ build: off  # будем использовать свой скрипт сбор
 
 install:
   # запускаем SUT (& означает, что в фоновом режиме - не блокируем терминал для запуска тестов)
-  - java -jar src/test/java/artifacts/app-mbank.jar & // ВНИМАНИЕ!!! ПУТЬ БЕЗ ТЕКУЩЕЙ ДИРЕКТОРИИ
+  - java -jar src/test/java/artifacts/app-mbank.jar & # ВНИМАНИЕ!!! ПУТЬ БЕЗ ТЕКУЩЕЙ ДИРЕКТОРИИ
 
 build_script:
   - chmod +x gradlew
